@@ -1,3 +1,4 @@
+// URL: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 class RemoveDuplicate {
     public int removeDuplicates(int[] nums) {
         int count=0;
